@@ -9,9 +9,9 @@ Repositorio personal para aprendizaje y experimentación con **PyPulseq** y simu
 - Evolucionar hacia secuencias clínicas (GRE, SE, EPI)
 
 ## Estructura
-sequences/ # Diseño de secuencias Pulseq
-simulation/ # Simulación de señal e imagen
-utils/ # Funciones auxiliares
+- sequences/ # Diseño de secuencias Pulseq
+- simulation/ # Simulación de señal e imagen
+- utils/ # Funciones auxiliares
 
 
 ## Entorno
